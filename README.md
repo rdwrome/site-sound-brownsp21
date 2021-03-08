@@ -18,6 +18,8 @@
     - representation
     - "pop" music?
 
+## who gets agency?
+
 ## works I've thought most about
 
 - **[The Glass Concert (1967-1970)/ Annea Lockwood](http://www.annealockwood.com/compositions/)**
@@ -34,7 +36,7 @@
 
 ## near future
 
-- agency distribution
+- agency redistribution
   - live coding
   - home-brewed instruments
   - immersive audio
