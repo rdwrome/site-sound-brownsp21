@@ -4,17 +4,19 @@
 
 - **frames**
 	- my background
-    - hornist | improviser
-    - public librarian
+      - hornist | improviser
+      - public librarian
+
   - "feminist technologist"
     - critical of tools for creation and dissemination
       - gender: beautiful, complex, socially constructed
         - our society allows some folks more agency over themselves than other folks based on their gender
       - does the tool resist or reinforce systems of oppression?
       - does it help to reimagine a world without misogynistic | racist | ableist oppression?
-- teaching life at berklee
-  - representation
-  - "pop" music?
+
+  - teaching life at berklee
+    - representation
+    - "pop" music?
 
 ## works I've thought most about
 
