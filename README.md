@@ -6,7 +6,6 @@
 	- my background
     - hornist | improviser
     - public librarian
-		- [sound|gender|technology](http://racheldevorah.studio/writings/)
   - "feminist technologist"
     - critical of tools for creation and dissemination
       - gender: beautiful, complex, socially constructed
