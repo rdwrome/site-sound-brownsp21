@@ -3,7 +3,7 @@
 - **[last time at Brown](https://archive.org/details/devorahzgw)**
 
 - **frames**
-	- my background
+	- background
       - hornist | improviser
       - public librarian
 
