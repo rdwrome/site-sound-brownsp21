@@ -1,6 +1,6 @@
 # resonance & rachel
 
-- **[last time at Brown]**(https://archive.org/details/devorahzgw)
+- **[last time at Brown](https://archive.org/details/devorahzgw)**
 
 - **frames**
 	- my background
